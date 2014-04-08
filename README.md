@@ -1,6 +1,6 @@
 # Qualis
 
-[Conferências](https://github.com/ifpb/qualis/qualis-cc.html) e [Periódicos](https://github.com/ifpb/qualis/web-qualis.html)
+[Conferências](https://ifpb.github.com/qualis/qualis-cc.html) e [Periódicos](https://ifpb.github.com/qualis/web-qualis.html)
 
 ## TODO
 
