@@ -1,5 +1,7 @@
 # Qualis
 
+[Conferências](https://github.com/ifpb/qualis/qualis-cc.html) e [Periódicos](https://github.com/ifpb/qualis/web-qualis.html)
+
 ## TODO
 
 * angularjs e http://angular-ui.github.io/ng-grid/
